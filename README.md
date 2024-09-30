@@ -1,1 +1,5 @@
-# YADRO_school_python
+# YADRO_school_python  
+Студент: Андрющенко Ксения   
+
+Ветки практических работ:  
+* practic_work1 - практическая работа 1
